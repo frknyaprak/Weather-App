@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VektorelWeatherApp</string>
+    <string name="error_message">Beklenmeyen bir hata olustu</string>
+</resources>
